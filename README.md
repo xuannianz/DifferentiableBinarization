@@ -1,9 +1,9 @@
 # DifferentiableBinarization
 This is an implementation of [Real-time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947) in Keras and Tensorflow,
-Most portions of code are borrow from the official implementation [MhLiao/DB](https://github.com/MhLiao/DB).
+Most portions of code are borrowed from the official implementation [MhLiao/DB](https://github.com/MhLiao/DB).
 
 ## Build Dataset
-Building dataset in the same way as the official implementation.
+Build dataset in the same way as the official implementation.
 ```
   datasets/total_text/train_images
   datasets/total_text/train_gts
